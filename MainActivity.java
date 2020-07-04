@@ -1,4 +1,4 @@
-package com.example.robpercival.guessthecelebrity;
+package com.example.firuz.guessthecelebrity;
 
 import android.app.Activity;
 import android.graphics.Bitmap;
